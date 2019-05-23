@@ -7,7 +7,7 @@
 <script>
 import echarts from 'echarts' //引入echarts
 export default {
-    name: 'comPie',
+    name: 'comBar',
     data(){
         return{
             legendArr: [],
